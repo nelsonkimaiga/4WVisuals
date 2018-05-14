@@ -1,0 +1,23 @@
+{
+  "name": "chaplin",
+  "repo": "chaplinjs/downloads",
+  "version": "1.2.0",
+  "main": "chaplin.js",
+  "scripts": [
+    "chaplin.js"
+  ],
+  "dependencies": {
+    "backbone": "1.x"
+  },
+  "homepage": "https://github.com/chaplinjs/downloads",
+  "_release": "1.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.2.0",
+    "commit": "9b52a254842650787341c67e82edc7758220c19f"
+  },
+  "_source": "https://github.com/chaplinjs/downloads.git",
+  "_target": "^1.2.0",
+  "_originalSource": "chaplin",
+  "_direct": true
+}
